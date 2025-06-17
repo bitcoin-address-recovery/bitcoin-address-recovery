@@ -226,4 +226,6 @@ This project is licensed under the [MIT License](/LICENSE)
 
 
 
-Update:  16.06.2025 05:48:55 Session links
+
+
+Update: url is now clickable and working
